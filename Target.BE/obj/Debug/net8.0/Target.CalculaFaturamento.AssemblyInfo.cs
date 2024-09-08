@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Target.CalculaFaturamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74419cb6373dbbad08c272871da782e067c39502")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+909a27f207e63d5ecf5118e1fbfaa192f27671e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Target.CalculaFaturamento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Target.CalculaFaturamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
